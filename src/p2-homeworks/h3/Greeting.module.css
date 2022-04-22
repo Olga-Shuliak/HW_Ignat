@@ -1,7 +1,22 @@
-.someClass {
+.greetingBox {
+    width: 500px;
+    height: 145px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid mediumseagreen;
+    border-radius: 10px;
+}
 
+.someClass {
+color: seagreen;
 }
 
 .error {
     border: 1px solid red;
+}
+.errorText {
+    color: red;
+}
+.addButton {
+    background-color: mediumseagreen;
 }
